@@ -1,2 +1,3 @@
 /giftgiver/.vscode
 /giftgiver/src/components/__snapshots__
+*.snap
